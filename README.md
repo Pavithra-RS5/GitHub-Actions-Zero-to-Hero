@@ -1,5 +1,6 @@
 # GitHub-Actions-Zero-to-Hero
 Repository to kick start your journey with GitHub Actions
+Testing my GitHub Action 🚀
 
 ## Comparing with Jenkins 
 
